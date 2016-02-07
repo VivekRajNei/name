@@ -1,0 +1,26 @@
+{
+  "name": "name",
+  "version": "0.0.0",
+  "description": "Its followed by video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VivekRajNei/name.git"
+  },
+  "keywords": [
+    "name"
+  ],
+  "author": "Vivek",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/VivekRajNei/name/issues"
+  },
+  "dependencies": {
+    "botkit": "0.0.5",
+    "witbot": "~2.0.0"
+  }
+}
